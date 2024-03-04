@@ -1,0 +1,25 @@
+---
+canvas: "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_210v.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_210v.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2052.1326293945312\" cy=\"4200.57275390625\" rx=\"44.11834716796875\" ry=\"16.84423828125\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ff7a878e-b54e-4860-a51c-661e3a66042a.json",
+    "motivation": "commenting"
+}
