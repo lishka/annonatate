@@ -1,0 +1,48 @@
+---
+canvas: "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_210v.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "TO diagram with the Sea of Azov (Meotides Paludes)",
+            "purpose": "describing",
+            "creator": {
+                "id": "lishka",
+                "name": "lishka"
+            },
+            "created": "2024-03-04T19:45:47.466Z",
+            "modified": "2024-03-04T19:46:02.354Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Meotides Paludes",
+            "purpose": "tagging",
+            "creator": {
+                "id": "lishka",
+                "name": "lishka"
+            },
+            "created": "2024-03-04T19:45:57.779Z",
+            "modified": "2024-03-04T19:45:59.954Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_210v.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"3131.4154663085938\" cy=\"5127.975341796875\" rx=\"1104.1841430664062\" ry=\"941.104736328125\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4a5ff3cc-db9e-4814-ac91-e4dea5ef41f2.json",
+    "motivation": "commenting"
+}
