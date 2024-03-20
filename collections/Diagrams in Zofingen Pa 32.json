@@ -15,6 +15,12 @@
             "title": "fol. 60v",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://lishka.github.io/annonatate/annotations/zos-pa0032-zos-pa0032-061v-list.json'></iiif-storyboard>",
+            "title": "fol. 61v",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
