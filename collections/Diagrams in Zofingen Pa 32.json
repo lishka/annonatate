@@ -6,13 +6,13 @@
     "items": [
         {
             "board": "<iiif-storyboard annotationurl='https://lishka.github.io/annonatate/annotations/zos-pa0032-zos-pa0032-059r-list.json'></iiif-storyboard>",
-            "title": "Fol. 59v",
+            "title": "Fol. 59r",
             "description": "",
             "thumbnail": ""
         },
         {
             "board": "<iiif-storyboard annotationurl='https://lishka.github.io/annonatate/annotations/zos-pa0032-zos-pa0032-060v-list.json'></iiif-storyboard>",
-            "title": "fol. 60r",
+            "title": "fol. 60v",
             "description": "",
             "thumbnail": ""
         }
