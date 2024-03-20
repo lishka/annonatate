@@ -1,9 +1,3 @@
-images:
-- added: '2024-03-20 15:18:19.023206'
-  iiif: true
-  thumbnail: https://www.e-codices.unifr.ch/loris/zos/zos-pa0032/zos-pa0032_e001.jp2/full/120,/0/default/jpg
-  title: Zofingen, Stadtbibliothek, Pa 32
-  url: https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/manifest.json
-  user: lishka
+images: []
 settings: {}
 version: '2.1'
