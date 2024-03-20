@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Diagrams in Zofingen Pa 32",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://lishka.github.io/annonatate/annotations/zos-pa0032-zos-pa0032-059r-list.json'></iiif-storyboard>",
+            "title": "Fol. 59v",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
