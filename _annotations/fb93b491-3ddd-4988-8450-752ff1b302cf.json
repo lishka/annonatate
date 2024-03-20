@@ -1,0 +1,37 @@
+---
+canvas: "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_061v.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The five climatic zones",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lishka",
+                "name": "lishka"
+            },
+            "created": "2024-03-20T15:44:29.977Z",
+            "modified": "2024-03-20T15:44:33.628Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_061v.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"3774.6109619140625\" cy=\"1566.9221496582031\" r=\"1071.734314421568\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fb93b491-3ddd-4988-8450-752ff1b302cf.json",
+    "motivation": "commenting"
+}
