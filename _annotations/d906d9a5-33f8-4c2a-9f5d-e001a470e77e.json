@@ -1,0 +1,37 @@
+---
+canvas: "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_060v.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A diagram of the annual seasons",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lishka",
+                "name": "lishka"
+            },
+            "created": "2024-03-20T15:43:53.836Z",
+            "modified": "2024-03-20T15:44:03.479Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_060v.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"4029.1810390585592\" cy=\"1678.263248142955\" r=\"853.0113437539408\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d906d9a5-33f8-4c2a-9f5d-e001a470e77e.json",
+    "motivation": "commenting"
+}
