@@ -1,0 +1,9 @@
+---
+canvas_id: "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_060v.json"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
