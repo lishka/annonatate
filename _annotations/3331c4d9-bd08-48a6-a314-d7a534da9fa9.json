@@ -1,0 +1,37 @@
+---
+canvas: "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_059r.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Diagram of the months of the year",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lishka",
+                "name": "lishka"
+            },
+            "created": "2024-03-20T15:43:10.392Z",
+            "modified": "2024-03-20T15:43:17.976Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://www.e-codices.unifr.ch/metadata/iiif/zos-pa0032/canvas/zos-pa0032_059r.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2768.9539184570312\" cy=\"3252.076904296875\" r=\"1305.2904184093377\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3331c4d9-bd08-48a6-a314-d7a534da9fa9.json",
+    "motivation": "commenting"
+}
